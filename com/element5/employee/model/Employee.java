@@ -14,7 +14,7 @@ import java.time.LocalDate;
  * @created on - 16/July/2022
  */
 public class Employee {
-    public static String companyName = "Element5";
+    public static String companyName = "ideas2it"; 
     private String name;
     private String id;
     private String email;
