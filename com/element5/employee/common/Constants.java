@@ -12,6 +12,7 @@ package com.element5.employee.common;
  * @author - Deepak S
  * @created on - 29/July/2022
  */
+// change some comments in constants
 public class Constants {
     public static final String trainer = "trainer";
     public static final String trainee = "trainee";
